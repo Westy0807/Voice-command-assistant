@@ -1,4 +1,4 @@
-#As a prerequaste please install these as interfaces to
+#Please pip-install/interface-install these before use or nothing will work
 import speech_recognition as sr
 import pyttsx3
 import pywhatkit
